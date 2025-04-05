@@ -35,6 +35,10 @@ Features
 
 • Swiper.js (for touch sliders)
 
+
+
+
+## Folder Structure 
 /online-grocery-store-website
 │
 ├── index.html
